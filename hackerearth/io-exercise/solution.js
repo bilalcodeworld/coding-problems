@@ -21,7 +21,7 @@ Problem:
 
 */
 
-// process.stdin.resume();
+process.stdin.resume();
 process.stdin.setEncoding('utf-8');
 
 let input = "";
